@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DigiAeon.ProductName.Services.WcfTestService" Factory="DigiAeon.Core.StructureMapExtensions.StructureMapWcfServiceHostFactory" %>
